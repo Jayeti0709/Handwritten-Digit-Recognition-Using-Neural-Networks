@@ -1,1 +1,6 @@
+numpy
+scipy
+matplotlib
+Pillow      # Required if using ImageGrab for the GUI
+tk          # Tkinter for GUI
 
