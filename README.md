@@ -4,6 +4,6 @@ A neural network model for recognizing handwritten digits from the MNIST dataset
 # Table of Contents
 
 # Dataset Link
-For more information, check out the [Dataset Link]((https://www.kaggle.com/avnishnish/mnist-original/download)).
+[Dataset Link](https://www.kaggle.com/datasets/avnishnish/mnist-original?resource=download]).
 
 
